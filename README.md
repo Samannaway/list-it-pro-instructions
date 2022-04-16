@@ -1,6 +1,6 @@
 # **List It Pro instructions of use**
 
-![Image](instructions.png)
+![Image](/Instructions.png)
 
  - you can add any tasks in the input area where it's written **enter tasks here**
  - if you have done any task then on the **left side** of task put on the **checkmark (the square thing)** it will cross ou that thing denoting that it's done.
